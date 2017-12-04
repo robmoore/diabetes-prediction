@@ -1,1 +1,7 @@
 iris.csv
+.cache/
+.ipython/
+.keras/
+.local/
+.wget-hsts
+.ipynb_checkpoints/
