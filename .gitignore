@@ -1,4 +1,5 @@
 iris.csv
+compData.db
 .cache/
 .ipython/
 .keras/
