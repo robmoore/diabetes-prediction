@@ -6,3 +6,5 @@ compData.db
 .local/
 .wget-hsts
 .ipynb_checkpoints/
+.jupyter/
+compData.sql
